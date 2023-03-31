@@ -1,2 +1,2 @@
-# PreCrourse-Henry
+# Curso-Henry
 Estudios Henry
